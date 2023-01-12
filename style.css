@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: #D9CDF7;
+  }
+  
+section{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 70px;
+}
+
+
+  p{
+   display: flex;
+   margin-left: 800px;
+   margin-top: -320px;
+   color: black;
+   font-size: 19px;
+  }
+  
+  h2,h3{
+    display: flex;
+    margin-left:800px;
+    margin-top: -10px;
+    color:black;
+    font-size:35px;
+  }
+  
+  button{
+   display: flex;
+   margin-left:800px;
+   margin-top: 10px;
+   background: none;
+   border-radius: 20px;
+   border-color: black;
+   padding:10px;
+   cursor: pointer;
+  }
